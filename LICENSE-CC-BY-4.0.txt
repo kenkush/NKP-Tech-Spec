@@ -1,3 +1,4 @@
 Copyright (c) 2026 Улан Садыков
 Настоящие материалы проекта НКП (ЕКА) распространяются на условиях лицензии 
 Creative Commons Attribution 4.0 International (CC BY 4.0).
+"Rename LICENSE to LICENSE-CC-BY-4.0.txt")
