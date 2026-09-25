@@ -2619,7 +2619,9 @@ o	При достаточном количестве узлов и сбалан�
 Улан Садыков
 e-mail: ubs.pl2@gmail.com
 e-mail: ulanbs@rambler.ru
-Telegram: @nkp_ulan  
-  07.09.2026.    
+Telegram channel: Project”nkp”  ….  Link:  https://t.me/nkp_telegra_ph
+  17.09.2026.    
+   
+
  
 
